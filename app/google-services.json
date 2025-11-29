@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478438636234",
+    "project_id": "time-guard-4cd37",
+    "storage_bucket": "time-guard-4cd37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478438636234:android:2989b3e0274bd9cc095233",
+        "android_client_info": {
+          "package_name": "com.example.time_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGl8FurE3HYvLT3dZpGnEEbUg40kwIPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
